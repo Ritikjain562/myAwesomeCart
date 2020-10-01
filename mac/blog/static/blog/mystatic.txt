@@ -1,1 +1,1 @@
-this is my static file in my blog system project
+this is my static file in blog
